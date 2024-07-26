@@ -1,0 +1,117 @@
+*{
+    font-family: "Cardo", serif;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+}
+
+.limg{
+    width: 100px;
+    height: 80px;
+}
+
+.hdd5{
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+}
+p{
+    font-family: "Playwrite CU", cursive;
+}
+.section1{
+    margin-top: 150px;
+}
+.image{
+ 
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+  
+}
+
+.images{
+margin-top: 20px;
+position: relative;
+
+}
+
+
+.p1{
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.hd3{
+   
+    font-family: "Space Grotesk", sans-serif;
+    color:rgb(83, 244, 83);
+}
+.hd5{
+    padding: 50px;
+    font-weight: 600;
+    position: absolute;
+  /* margin: 110px 0px 0px 50px; */
+  font-size: 25px;
+  color: rgb(253, 252, 252);
+  text-shadow:rgb(30, 29, 29) 2px 2px;
+
+}
+.top:hover .hd5{
+    display: none;
+    text-shadow:rgb(74, 72, 72) 2px 2px;
+
+}
+
+
+.nav{
+    color: white;
+    font-weight: 600;
+    display: inline;
+    justify-content: space-between;
+}
+
+.brand{
+    font-weight: 600;
+    color: rgb(111, 111, 184);
+}
+.brand:hover{
+    color: red;
+    text-decoration: underline;
+    
+}
+.brands{
+    font-weight: 500;
+}
+.brands:hover{
+    color:rgb(154, 236, 154);
+    text-decoration: underline;
+    
+}
+.top{
+    opacity: 0.5;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+}
+.top:hover{
+    opacity: 1;
+    /* box-shadow: 3px 5px 10px 5px; */
+    color: aqua;
+}
+.hd2{
+    color: white;
+    
+}
+.a5{
+ text-decoration: none;
+}
+
+.af{
+    display: flex;
+    /* justify-content:start; */
+    /* text-align: left; */
+    text-decoration: none;
+    color: white;
+    line-height: 1.5;
+}
